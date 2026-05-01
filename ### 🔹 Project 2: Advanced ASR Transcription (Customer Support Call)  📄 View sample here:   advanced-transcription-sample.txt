@@ -1,0 +1,26 @@
+# [00:00:00] Speaker 1 (Agent): Hello, thank you for calling customer support. How can I help you today?
+[00:00:04] Speaker 2 (Customer): Hi, uh, yes, I’m having trouble logging into my account.
+
+[00:00:08] Speaker 1 (Agent): I’m sorry to hear that. Can you please tell me what error you’re seeing?
+[00:00:12] Speaker 2 (Customer): It says, um, "invalid password," even though I’m sure it’s correct.
+
+[00:00:17] Speaker 1 (Agent): I understand. Let me help you reset your password.
+[00:00:20] Speaker 1 (Agent): Please click on the “Forgot Password” link on the login page.
+
+[00:00:24] Speaker 2 (Customer): Okay, uh, I see it now. Should I enter my email address?
+[00:00:28] Speaker 1 (Agent): Yes, please enter your registered email address, and you’ll receive a reset link.
+
+[00:00:33] Speaker 2 (Customer): Alright, I just submitted it.
+[00:00:36] Speaker 2 (Customer): Oh, wait, I received the email already.
+
+[00:00:39] Speaker 1 (Agent): Great. Please follow the instructions in the email to reset your password.
+[00:00:43] Speaker 2 (Customer): Okay, done. Let me try logging in again.
+
+[00:00:47] Speaker 2 (Customer): Yes, it worked. Thank you so much.
+[00:00:50] Speaker 1 (Agent): You’re welcome. Is there anything else I can assist you with?
+
+[00:00:54] Speaker 2 (Customer): No, that’s all. Thanks again.
+[00:00:56] Speaker 1 (Agent): Thank you for calling. Have a great day.
+
+[00:00:58] [background noise: keyboard typing]
+[00:01:00] [call ends]
